@@ -2,6 +2,7 @@
 	import material_base from './data/materials_base.js';
 	import material_lvl_2 from './data/materials_lvl_2.js';
 	import material_lvl_3 from './data/materials_lvl_3.js';
+  import structures from './data/structures.js';
 
 	let material_count = material_base.length;
 
